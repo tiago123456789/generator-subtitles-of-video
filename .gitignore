@@ -1,0 +1,4 @@
+node_modules/
+*.vtt
+asrOutput.json
+video.mp4 
