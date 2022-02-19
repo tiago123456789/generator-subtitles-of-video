@@ -12,6 +12,7 @@
   "dependencies": {
     "@aws-sdk/client-transcribe": "^3.50.0",
     "aws-sdk": "^2.1073.0",
-    "aws-transcription-to-srt": "^1.0.6"
+    "aws-transcription-to-srt": "^1.0.6",
+    "uuid": "^8.3.2"
   }
 }
